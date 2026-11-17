@@ -1,0 +1,15 @@
+No files changed, compilation skipped
+
+Ran 2 tests for test/BuildersV4LockReal.t.sol:BuildersV4LockRealTest
+[PASS] test_baseline_honest_withdraw() (gas: 977040)
+[PASS] test_live_inducible_full_attack() (gas: 3737530)
+Logs:
+  Attacker MOR bought with 20 ETH (self-funded): 15673
+  Permanently trapped victim MOR: 300000
+  USD at $0.699275: 209782
+  Attacker emissions harvested in 120 days (MOR): 27056
+  USD at $0.699275: 18919
+
+Suite result: ok. 2 passed; 0 failed; 0 skipped; finished in 494.04ms (11.10ms CPU time)
+
+Ran 1 test suite in 494.55ms (494.04ms CPU time): 2 tests passed, 0 failed, 0 skipped (2 total tests)
