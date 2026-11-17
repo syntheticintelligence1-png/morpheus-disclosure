@@ -1,4 +1,4 @@
-# Morpheus Builders V4 — permanent withdrawal lock + ongoing reward capture (F1)
+# Morpheus Builders V4  permanent withdrawal lock + ongoing reward capture (F1)
 
 Mainnet-fork PoC for a High-severity finding in the deployed **BuildersV4** contract
 on Base. A permissionless subnet admin can raise `withdrawLockPeriodAfterDeposit`
