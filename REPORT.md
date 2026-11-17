@@ -1,7 +1,7 @@
 # BuildersV4 — Permanent withdrawal lock + ongoing emission harvest via unbounded `editSubnet`
 
 **Severity: High (top of band).** Permanent, unrecoverable loss of staker principal in any
-attacker-created subnet, plus ongoing attacker reward extraction on the trapped principal.
+attacker-created subnet, plus ongoing attacker reward extraction on the trapped principal. 
 Bounded to the attacker's own subnet, so not Critical.
 
 ---
